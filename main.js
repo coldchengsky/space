@@ -1,1 +1,1 @@
-console.log('Hello World!');
+console.log('是谁啊。居然打开了开发者界面ヽ(✿ﾟ▽ﾟ)ノ');
