@@ -1,0 +1,97 @@
+body {
+    font-size: 15pt;
+    background-color: #101518;
+}
+a {
+  text-decoration: none;
+  color: #6B7DA1;
+  /* color: */
+}
+/* 顶部栏 */
+.head {
+  font-weight: bold;
+  }
+.pic {
+  width: 100％;
+  }
+span {
+  color: white;
+  margin-top: 0px;
+  }
+.name {
+  color: white;
+  margin-top: 0;
+  }
+.gun {
+  font-size: 40px;
+  color: #33A0FF
+  }
+/* 文章 */
+/* .article {
+  background-color: #1C232B;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  box-shadow:2px 2px 15px rgba(0,0,0,.5);
+  overflow:hidden;
+  .article img{
+    width: 100％；
+    }
+*/
+.article {       
+  overflow:hidden;
+  width: 90%;
+  height: auto;
+  margin: 0 auto;
+  margin-top:20px;               border-radius:10px;
+box-shadow:2px 2px 15px rgba(0,0,0,.5);
+       
+      }
+       
+}
+/* 文章标题 */
+.title {
+  text-decoration: none;
+  font-size: 30px;
+  color: white;
+  text-align: left;
+}
+
+/* 文章撰写日期 */
+.date {
+  color: #FEFEFE;
+  font-size: 15px;
+  text-align: left;
+}
+/* 文章每段样式 */
+.duanluo {
+  text-indent: 2em;/* 开头空两格 */
+}
+.bottom h1 {
+  color: white;
+  line-height: 5px;
+  }
+.bottom p {
+  color: #33A0FF;
+  font-size: 15px;
+  font-weight: 500;
+  }
+nav a {
+  color: #33A0FF;
+  }
+    .pic img {
+      width: 100%;
+      height: auto; /* 保持图片宽高比 */
+      display: block; /* 防止底部空白 */
+    }      
+  .pic{
+        
+        overflow:hidden;
+        width: 90%;
+        height: auto;
+        margin: 0 auto;
+        margin-top:20px;
+        border-radius:10px;
+        box-shadow:2px 2px 15px rgba(0,0,0,.5);
+       
+      }

@@ -1,0 +1,28 @@
+body {
+  background-color: #101518;
+}
+h2 {
+  color: #33A0FF; 
+  font-size: 40px;
+}
+div h2 {
+  color: white;
+  font-size: 30px;
+}
+p {
+  color: white;
+  font-size: 20px;
+}
+div {
+  background-color:  #1C232B;
+  padding: 10px;
+  border-radius: 10px;
+}
+.left{
+  color: #33A0FF;
+  font-size: 40px;
+  }
+.right {
+  color: white;
+  font-size: 40px;
+  }

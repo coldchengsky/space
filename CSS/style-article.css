@@ -1,0 +1,55 @@
+body {
+  background-color: #101518;
+}
+.left {
+  color: #33A0FF;
+  font-size: 40px;
+}
+.right {
+  color: white;
+  font-size: 40px;
+  }
+/* 文章的边框 */
+.article {
+  background-color: #1C232B;
+  border-radius: 10px;
+  padding: 10px;
+}
+/* 文章标题 */
+.title {
+  line-height: 20px;
+  font-size: 29px;
+  text-align: center;
+  color: #33A0FF;
+}
+.changelog_title {
+  color: #33A0FF;
+  font-size:35px;
+  }
+/* 文章撰写日期 */
+.date {
+  color: #999;
+  font-size: 15px;
+}
+/* 文章每段样式 */
+.duanluo {
+  text-indent: 2em;/* 开头空两格 */
+  color: white;
+}
+a {
+  text-decoration: none;
+  color: #33A0FF;
+  width: 300;
+}
+.bottom h1 {
+  color: white;
+  line-height: 5px;
+  }
+.bottom p {
+  color: #33A0FF;
+  font-size: 15px;
+  font-weight: 500;
+  }
+.bottom a {
+  text-decoration: none;
+  }
