@@ -3,7 +3,7 @@
 
 网站可能写得不太好，请谅解。  
 
-这是我的网站链接[我的主页](https://coldchengsky.github.ii/space)  
+这是我的网站链接[我的主页](https://coldchengsky.github.io/space)  
 
 ***
 # 版权©️
