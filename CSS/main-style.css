@@ -1,0 +1,102 @@
+body {
+    font-size: 15pt;
+    background-color: #303030;
+}
+a {
+  text-decoration: none;
+  color: #C1C1C1;
+  /* color: */
+  
+}
+a:hover{
+color: white;
+}
+.icon {
+border-radius: 50%;
+margin-top: 25px;
+margin-left: 5px;
+margin-bottom: 1px;
+}
+.name{
+color: white;
+margin-top: 3px;
+margin-left: 5px;
+margin-bottom: 5px;
+}
+.bio p{
+color: #999;
+margin-left: 5px;
+font-size: 13px;
+}
+/* 顶部栏 */
+.head {
+  font-weight: bold;
+  }
+/* 文章 */
+.article {       
+  overflow:hidden;
+  width: 95%;
+  height: auto;
+  margin: 0 auto;
+  margin-top:20px;          border-radius:10px;
+box-shadow:2px 2px 15px rgba(0,0,0,.5);
+background-color: #424242;
+margin-left: 5px;
+       
+      
+       
+}
+.text {
+  text-decoration: none;
+  font-size: 30px;
+  color: C1C1C1;
+}
+h3{
+  margin-left: 15px;
+}
+/* 文章标题 */
+.title {
+  text-decoration: none;
+  font-size: 30px;
+  color: C1C1C1;
+  text-align: left;
+}
+
+/* 文章撰写日期 */
+.date {
+  color: #dadada;
+  font-size: 15px;
+  margin-left: 15px;
+}
+/* 文章每段样式 */
+.duanluo {
+  text-indent: 2em;/* 开头空两格 */
+}
+.bottom h1 {
+  color: white;
+  line-height: 5px;
+  }
+.bottom p {
+  color: #33A0FF;
+  font-size: 15px;
+  font-weight: 500;
+  }
+nav a {
+  color: #33A0FF;
+  }
+.pic img {
+      width: 100%;
+      height: auto; /* 保持图片宽高比 */
+      display: block; /* 防止底部空白 */
+    }      
+.pic{
+        overflow:hidden;
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+        margin-top:0px;
+   }
+.bottom p {
+margin-top: 5px;
+font-size: 15px;
+}
